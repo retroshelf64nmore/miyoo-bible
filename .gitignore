@@ -1,0 +1,6 @@
+app/Bible/bible
+*.exe
+frames/
+state.txt
+state.tmp
+dist/

@@ -1,0 +1,7 @@
+{
+  "label": "Bible",
+  "icon": "/mnt/SDCARD/App/Bible/bible.png",
+  "iconsel": "",
+  "launch": "launch.sh",
+  "description": "KJV + WEB reader with red letters"
+}
