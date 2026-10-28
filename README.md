@@ -1,6 +1,6 @@
 # Bible for Miyoo Mini
 
-A native Bible reader for the **Miyoo Mini / Mini Plus on Onion OS**. It has real button controls, **60 translations in 60 languages**, red letters, a night mode, and it remembers your place.
+A native Bible reader for the **Miyoo Mini / Mini Plus on Onion OS**. It has real button controls, **60 translations in 59 languages**, red letters, a night mode, and it remembers your place.
 
 ![Genesis 1 in the reader](screenshots/reader.png)
 
@@ -9,7 +9,7 @@ It doesn't use the terminal or need extra libraries. It's one small program that
 ## Features
 
 - **Adjustable text size**: L1 / R1 change it (10 sizes), and you stay on the verse you were reading.
-- **60 languages**, including English (KJV and WEB), Spanish (Reina-Valera 1909), Latin (Clementine Vulgate with its deuterocanonical books), French, German, Italian, Portuguese, Russian, Esperanto, Vietnamese, **Japanese, Chinese and Korean**, and many more. See the [full list](#translations).
+- **59 languages** (60 translations: English has two), including English (KJV and WEB), Spanish (Reina-Valera 1909), Latin (Clementine Vulgate with its deuterocanonical books), French, German, Italian, Portuguese, Russian, Esperanto, Vietnamese, **Japanese, Chinese and Korean**, and many more. See the [full list](#translations).
 - **Red letters**: the words of Jesus in red, in every translation that marks them (24 of the 60). They can be turned off in Settings.
 - **Real button controls**, with no terminal or on-screen keyboard.
 - **Day and night themes**.
