@@ -1,8 +1,10 @@
-# Builds the ARM binary into app\Bible and packs dist\Bible-<version>.zip (extracts to SD root as App/Bible/...).
-# Needs Zig 0.14 (https://ziglang.org/download/) on PATH or passed with -Zig.
-#   .\build.ps1 -Version 1.0.0
+# Builds the ARM binary into app\Bible and packs two releases (both extract to SD root as App/Bible/...):
+#   dist\Bible-<version>.zip                English only (KJV + WEB)
+#   dist\Bible-International-<version>.zip  every translation in app\Bible\data
+# Needs Zig 0.14 (https://ziglang.org/download/) on PATH or passed with -Zig, and app\Bible\data built by tools\make_data.py.
+#   .\build.ps1 -Version 1.1.0
 #   .\build.ps1 -Preview          # also builds bible_preview.exe (renders PNG frames on a PC)
-param([string]$Version = '1.0.0', [string]$Zig = 'zig', [switch]$Preview)
+param([string]$Version = '1.1.0', [string]$Zig = 'zig', [switch]$Preview)
 $ErrorActionPreference = 'Stop'
 Set-Location $PSScriptRoot
 
@@ -16,15 +18,20 @@ if ($Preview) {
 # Zip with forward-slash entry names (Compress-Archive on Windows PowerShell writes backslashes).
 Add-Type -AssemblyName System.IO.Compression, System.IO.Compression.FileSystem
 New-Item -ItemType Directory -Force dist | Out-Null
-$zip = Join-Path $PSScriptRoot "dist\Bible-$Version.zip"
-if (Test-Path $zip) { Remove-Item $zip }
 $root = Join-Path $PSScriptRoot 'app'
-$archive = [IO.Compression.ZipFile]::Open($zip, 'Create')
-try {
-    Get-ChildItem $root -Recurse -File | Where-Object { $_.Name -notin 'state.txt', 'state.tmp' } | ForEach-Object {
-        $entry = 'App/' + $_.FullName.Substring($root.Length + 1).Replace('\', '/')
-        [IO.Compression.ZipFileExtensions]::CreateEntryFromFile($archive, $_.FullName, $entry, 'Optimal') | Out-Null
+function Pack([string]$name, [scriptblock]$keep) {
+    $zip = Join-Path $PSScriptRoot "dist\$name"
+    if (Test-Path $zip) { Remove-Item $zip }
+    $archive = [IO.Compression.ZipFile]::Open($zip, 'Create')
+    try {
+        Get-ChildItem $root -Recurse -File | Where-Object { $_.Name -notin 'state.txt', 'state.tmp' } | ForEach-Object {
+            $rel = $_.FullName.Substring($root.Length + 1).Replace('\', '/')
+            if (& $keep $rel) { [IO.Compression.ZipFileExtensions]::CreateEntryFromFile($archive, $_.FullName, "App/$rel", 'Optimal') | Out-Null }
+        }
     }
+    finally { $archive.Dispose() }
+    "built $zip ($([math]::Round((Get-Item $zip).Length / 1MB, 1)) MB)"
 }
-finally { $archive.Dispose() }
-"built $zip ($([math]::Round((Get-Item $zip).Length / 1MB, 1)) MB)"
+$english = 'eng-kjv', 'engwebp'
+Pack "Bible-$Version.zip" { param($rel) $rel -notmatch '^Bible/data/([^/]+)/' -or $english -contains $Matches[1] }
+Pack "Bible-International-$Version.zip" { param($rel) $true }

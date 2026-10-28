@@ -1,0 +1,692 @@
+[
+ {
+  "id": "bel",
+  "code": "bel",
+  "lang": "Belarusian",
+  "langEn": "Belarusian",
+  "title": "Belarusan Bible, A. Boken",
+  "copyright": "Copyright © 2016-2023 John the Forerunner Church of Christians of Evangelical Faith of Minsk City",
+  "license": "CC-BY-NC 4.0",
+  "dc": 0
+ },
+ {
+  "id": "benirv",
+  "code": "ben",
+  "lang": "বাংলা",
+  "langEn": "Bengali",
+  "title": "Bengali Indian Revised Version Bible: ইন্ডিয়ান রিভাইজড ভার্সন (IRV) - বেঙ্গলী",
+  "copyright": "Copyright © 2018, 2019 Bridge Connectivity Solutions Pvt. Ltd.",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "beo",
+  "code": "beo",
+  "lang": "Bedamuni",
+  "langEn": "Beami",
+  "title": "Bedamuni Bible",
+  "copyright": "Copyright © 2000 Tom Hoey",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "cebocb",
+  "code": "ceb",
+  "lang": "Cebuano",
+  "langEn": "Cebuano",
+  "title": "Cebuano: Biblica® Open Ang Pulong sa Dios (Bible)",
+  "copyright": "Copyright © 2009,2010,2014,2024 Biblica, Inc.",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "cekak",
+  "code": "cek",
+  "lang": "Asang Khongca",
+  "langEn": "Chin, Eastern Khumi",
+  "title": "Asang Khongca Bible",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "ces1613",
+  "code": "ces",
+  "lang": "český",
+  "langEn": "Czech",
+  "title": "Czech Kralická Bible 1613",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "cmnswcb",
+  "code": "cmn",
+  "lang": "中国语文",
+  "langEn": "Chinese, Mandarin",
+  "title": "World Chinese Bible",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "cth",
+  "code": "cth",
+  "lang": "Thai Phum",
+  "langEn": "Chin, Thaiphum",
+  "title": "Thai Phum Bible",
+  "copyright": "Copyright © 2020 Batupuei Christian Fellowship",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "deu1912",
+  "code": "deu",
+  "lang": "Deutsch",
+  "langEn": "German, Standard",
+  "title": "German Luther Bible 1912",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "dwrl",
+  "code": "dwr",
+  "lang": "Dawro",
+  "langEn": "Dawro",
+  "title": "The Holy Bible in the Dawuro language of Ethiopia, Latin script",
+  "copyright": "Copyright © 2024 The Word for the World International",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "eng-kjv",
+  "code": "eng",
+  "lang": "English",
+  "langEn": "English",
+  "title": "King James Version + Apocrypha",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 14
+ },
+ {
+  "id": "engwebp",
+  "code": "eng",
+  "lang": "English",
+  "langEn": "English",
+  "title": "World English Bible",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "epo",
+  "code": "epo",
+  "lang": "Esperanto",
+  "langEn": "Esperanto",
+  "title": "Esperanto Bible",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "ewe",
+  "code": "ewe",
+  "lang": "eʋegbe",
+  "langEn": "eʋegbe",
+  "title": "Éwé Bible",
+  "copyright": "Copyright © 1988, 2006, 2020 Biblica, Inc.",
+  "license": "CC-BY-SA 4",
+  "dc": 0
+ },
+ {
+  "id": "fraLSG",
+  "code": "fra",
+  "lang": "français",
+  "langEn": "French",
+  "title": "French Louis Segond 1910 Bible",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "gax",
+  "code": "gax",
+  "lang": "gujii",
+  "langEn": "gujii",
+  "title": "Guji Oromo Bible",
+  "copyright": "Copyright © 2025 The Word for the World International",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "gaz",
+  "code": "gaz",
+  "lang": "Afaan Oromoo",
+  "langEn": "Oromo, West Central",
+  "title": "New Oromo Contemporary Version",
+  "copyright": "Copyright © 2022 Biblica, Inc.",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "gmvl",
+  "code": "gmv",
+  "lang": "Gamotso",
+  "langEn": "Gamo",
+  "title": "Gamo Bible (Latin)",
+  "copyright": "Copyright © 2024 The Word for the World International",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "gofl",
+  "code": "gof",
+  "lang": "Goofa",
+  "langEn": "Gofa",
+  "title": "Gofa Bible Latin",
+  "copyright": "Copyright © 2024 The Word for the World International",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "hat",
+  "code": "hat",
+  "lang": "Kreyòl Ayisyen",
+  "langEn": "Haitian",
+  "title": "Haitian Creole Bible 1985",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "hausa",
+  "code": "hau",
+  "lang": "Hausa",
+  "langEn": "Hausa",
+  "title": "Hausa Contemporary Bible",
+  "copyright": "Copyright © 2009, 2020 Biblica, Inc.",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "haw1868",
+  "code": "haw",
+  "lang": "'Olelo Hawai'i",
+  "langEn": "Hawaiian",
+  "title": "Hawaiian Bible 1868",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "hil",
+  "code": "hil",
+  "lang": "Ilonggo",
+  "langEn": "Ilonggo",
+  "title": "Hiligaynon: Biblica® Libre Ang Pulong Sang Dios (Bible) for the Philippines",
+  "copyright": "Copyright © 1996, 2006, 2011, 2022 Biblica, Inc.",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "hincv",
+  "code": "hin",
+  "lang": "हिन्दी",
+  "langEn": "Hindi",
+  "title": "Hindi Contemporary Version Bible",
+  "copyright": "Copyright © 1978, 2009, 2016, 2019 Biblica, Inc.",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "hlt",
+  "code": "hlt",
+  "lang": "Matupi Chin",
+  "langEn": "Chin, Matu",
+  "title": "Matupi Chin Standard Bible w/ Strongs",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "ibo",
+  "code": "ibo",
+  "lang": "Igbo",
+  "langEn": "Igbo",
+  "title": "Igbo Bible",
+  "copyright": "Copyright © 2020 Biblica, Inc.",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "iloulb",
+  "code": "ilo",
+  "lang": "Ilocano",
+  "langEn": "Ilocano",
+  "title": "Ilocano Bible",
+  "copyright": "Copyright © 2019 Door43 World Missions Community",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "indayt",
+  "code": "ind",
+  "lang": "bahasa Indonesia",
+  "langEn": "Indonesian",
+  "title": "Indonesian AYT Bible",
+  "copyright": "Copyright © 2011-2024 YLSA-AYT",
+  "license": "CC-BY-NC 4.0",
+  "dc": 0
+ },
+ {
+  "id": "ita1927",
+  "code": "ita",
+  "lang": "lingua italiana",
+  "langEn": "Italian",
+  "title": "Italian Riveduta Bible",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "jpnm",
+  "code": "jpn",
+  "lang": "日本語",
+  "langEn": "Japanese",
+  "title": "Japanese Freedom Bible",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "kanokcv",
+  "code": "kan",
+  "lang": "ಕನ್ನಡ",
+  "langEn": "Kannada",
+  "title": "Kanada Open Contemporary Version Bible",
+  "copyright": "Copyright © 1999, 2020, 2022 Biblica, Inc.",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "kbq",
+  "code": "kbq",
+  "lang": "Kamano-Kafe",
+  "langEn": "Kamano",
+  "title": "Kamano-Kafe Bible",
+  "copyright": "Copyright © 2022 Tyndale Bible Translators",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "kik",
+  "code": "kik",
+  "lang": "Kikuyu",
+  "langEn": "Gikuyu",
+  "title": "Kikuyu Bible",
+  "copyright": "Copyright © 2013 Biblica, Inc.",
+  "license": "CC-BY-SA 4",
+  "dc": 0
+ },
+ {
+  "id": "kor",
+  "code": "kor",
+  "lang": "한국인",
+  "langEn": "Korean",
+  "title": "Korean Bible 1910",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "kos",
+  "code": "kos",
+  "lang": "Kosrae",
+  "langEn": "Kosraean",
+  "title": "Kosraean Bible",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "latVUC",
+  "code": "lat",
+  "lang": "Latine",
+  "langEn": "Latin",
+  "title": "Clementine Vulgate 1598",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 7
+ },
+ {
+  "id": "lin",
+  "code": "lin",
+  "lang": "Lingála",
+  "langEn": "Lingála",
+  "title": "Lingala Bible",
+  "copyright": "Copyright © 2020 Biblica, Inc.",
+  "license": "CC-BY-SA 4",
+  "dc": 0
+ },
+ {
+  "id": "lit",
+  "code": "lit",
+  "lang": "lietuvių",
+  "langEn": "Lithuanian",
+  "title": "Lithuanian Believers' Heritage Translation",
+  "copyright": "Copyright © 2022-2024 Believers' Bible Society, Inc.",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "lug",
+  "code": "lug",
+  "lang": "Luganda",
+  "langEn": "Luganda",
+  "title": "Luganda Bible",
+  "copyright": "Copyright © 1984, 1986, 1993, 2014 Biblica, Inc.",
+  "license": "CC-BY-SA 4",
+  "dc": 0
+ },
+ {
+  "id": "luo",
+  "code": "luo",
+  "lang": "Dholuo",
+  "langEn": "Dholuo",
+  "title": "Dholuo Bible",
+  "copyright": "Copyright © 2020 Biblica, Inc.",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "mkw",
+  "code": "mkw",
+  "lang": "Kituba",
+  "langEn": "Kituba",
+  "title": "Kituba Bible",
+  "copyright": "Copyright © 2025 Wycliffe Bible Translators, Inc.",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "mri2012",
+  "code": "mri",
+  "lang": "Māori",
+  "langEn": "Māori",
+  "title": "Maori: Paipera Tapu 2012 (Bible)",
+  "copyright": "Copyright © 2012 Bible Society New Zealand Charitable Trust",
+  "license": "CC-BY-NC 4.0",
+  "dc": 0
+ },
+ {
+  "id": "msy2020",
+  "code": "msy",
+  "lang": "Aruamu",
+  "langEn": "Aruamu",
+  "title": "Aruamu Bible",
+  "copyright": "Copyright © 2020 Pioneer Bible Translators",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "myajvb",
+  "code": "mya",
+  "lang": "ဗမာ",
+  "langEn": "Burmese",
+  "title": "Judson Burmese Bible",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "nde",
+  "code": "nde",
+  "lang": "isiNdebele",
+  "langEn": "Ndebele",
+  "title": "Ndebele Bible",
+  "copyright": "Copyright © 2003, 2006, 2022 Biblica, Inc.",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "nld",
+  "code": "nld",
+  "lang": "Nederlands",
+  "langEn": "Dutch",
+  "title": "Dutch Bible 1917",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "npioncb",
+  "code": "npi",
+  "lang": "नेपाली",
+  "langEn": "नेपाली",
+  "title": "Nepali Contemporary Bible",
+  "copyright": "Copyright © 1998, 2006, 2021, 2024 Biblica, Inc.",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "nya",
+  "code": "nya",
+  "lang": "Chichewa",
+  "langEn": "Chichewa",
+  "title": "Chichewa Bible",
+  "copyright": "Copyright © 2016, 2002 Biblica, Inc.",
+  "license": "CC-BY-SA 4",
+  "dc": 0
+ },
+ {
+  "id": "porbrbsl",
+  "code": "por",
+  "lang": "Português",
+  "langEn": "Portuguese",
+  "title": "World Portuguese Bible",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 15
+ },
+ {
+  "id": "ron1924",
+  "code": "ron",
+  "lang": "Romanian",
+  "langEn": "Romanian",
+  "title": "Romanian Bible (Cyrillic)",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "russyn",
+  "code": "rus",
+  "lang": "русский",
+  "langEn": "Russian",
+  "title": "Russian Synodal Bible",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "shr",
+  "code": "shr",
+  "lang": "Mashi",
+  "langEn": "Shi",
+  "title": "Mashi Bible",
+  "copyright": "Copyright © 2024 BUKAVU Mashi and other Kivu Languages Bible",
+  "license": "CC-BY 4.0",
+  "dc": 7
+ },
+ {
+  "id": "sna",
+  "code": "sna",
+  "lang": "chiShona",
+  "langEn": "chiShona",
+  "title": "Shona Bible",
+  "copyright": "Copyright © 2005, 2018 Biblica, Inc.",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "spaRV1909",
+  "code": "spa",
+  "lang": "Español",
+  "langEn": "Spanish",
+  "title": "Reina Valera 1909",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "srp1865",
+  "code": "srp",
+  "lang": "srpski jezik",
+  "langEn": "Serbian",
+  "title": "Serbian DK Bible (Latin)",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "swhonen",
+  "code": "swh",
+  "lang": "Kiswahili",
+  "langEn": "Swahili",
+  "title": "Kiswahili Contemporary Version",
+  "copyright": "Copyright © 1984, 1989, 2009, 2015 Biblica, Inc.",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "tczchongthu",
+  "code": "tcz",
+  "lang": "Chongthu",
+  "langEn": "Chin, Thado",
+  "title": "Chongthu Bible",
+  "copyright": "Copyright © 2020 Chongthu Bible Translation Team",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "tdx",
+  "code": "tdx",
+  "lang": "Tandroy",
+  "langEn": "Malagasy, Tandroy-Mahafaly",
+  "title": "Tandroy Bible",
+  "copyright": "Copyright © 2023 Steve Lellelid",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "telotsa",
+  "code": "tel",
+  "lang": "తెలుగు",
+  "langEn": "Telugu",
+  "title": "Telugu OTSA",
+  "copyright": "Copyright © 1976, 1990, 2022, 2024 Biblica, Inc.",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "tglulb",
+  "code": "tgl",
+  "lang": "Tagalog",
+  "langEn": "Tagalog",
+  "title": "Tagalog Bible",
+  "copyright": "Copyright © 2018 Door43 World Missions Community",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "thafb",
+  "code": "tha",
+  "lang": "แบบไทย",
+  "langEn": "Thai",
+  "title": "Thai Freedom Bible",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "ton",
+  "code": "ton",
+  "lang": "Tongan",
+  "langEn": "Tongan",
+  "title": "Revised West Version",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "twi",
+  "code": "twi",
+  "lang": "Akuapem Twi",
+  "langEn": "Twi",
+  "title": "Akuapem Twi Bible",
+  "copyright": "Copyright © 1996, 2020 Biblica, Inc.",
+  "license": "CC-BY-SA 4",
+  "dc": 0
+ },
+ {
+  "id": "uigcyr",
+  "code": "uig",
+  "lang": "Uyghur tili",
+  "langEn": "Uyghur",
+  "title": "Uyghur Bible (cyrillic script)",
+  "copyright": "Copyright © 2010 Mukeddes Kalam - Uyghur Bible Translation Committee",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "ukr1871",
+  "code": "ukr",
+  "lang": "Українська",
+  "langEn": "Ukrainian",
+  "title": "Ukrainian Bible by P. Kulish",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "urd",
+  "code": "urd",
+  "lang": "اردو",
+  "langEn": "Urdu",
+  "title": "Urdu IRV Bible",
+  "copyright": "Copyright © 2019 Bridge Connectivity Solutions Pvt. Ltd.",
+  "license": "CC-BY-SA 4.0",
+  "dc": 0
+ },
+ {
+  "id": "vie1934",
+  "code": "vie",
+  "lang": "Tiếng Việt",
+  "langEn": "Vietnamese",
+  "title": "Vietnamese Bible 1923",
+  "copyright": "public domain",
+  "license": "PD",
+  "dc": 0
+ },
+ {
+  "id": "wolmbs",
+  "code": "wol",
+  "lang": "Wolof",
+  "langEn": "Wolof",
+  "title": "Wolof Bible (MBS)",
+  "copyright": "Copyright © 2025 La Mission Baptiste du Sénégal",
+  "license": "CC-BY-NC 4.0",
+  "dc": 0
+ },
+ {
+  "id": "yor",
+  "code": "yor",
+  "lang": "Yorùbá",
+  "langEn": "Yorùbá",
+  "title": "Yoruba Bible",
+  "copyright": "Copyright © 2009, 2017 Biblica, Inc.",
+  "license": "CC-BY-SA 4",
+  "dc": 0
+ }
+]

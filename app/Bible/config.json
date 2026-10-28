@@ -3,5 +3,5 @@
   "icon": "/mnt/SDCARD/App/Bible/bible.png",
   "iconsel": "",
   "launch": "launch.sh",
-  "description": "KJV + WEB reader with red letters"
+  "description": "60 translations, red letters, button controls"
 }

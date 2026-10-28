@@ -23,7 +23,11 @@ SOFTWARE.
 ---------------------------------------------------------------------------
 This license covers the reader's own code (src/bible.c, tools/, build.ps1).
 Bundled third-party material keeps its own terms:
-  - Literata font (app/Bible/Literata.ttf): SIL Open Font License 1.1, see app/Bible/Literata_OFL.txt
+  - Fonts: Literata (app/Bible/Literata.ttf), Noto Serif (app/Bible/NotoSerif.ttf) and the trimmed
+    Noto Serif JP / SC / KR fonts inside the Japanese, Chinese and Korean data folders:
+    SIL Open Font License 1.1 (see the *_OFL.txt / FONT_LICENSE.txt files next to them)
   - stb_truetype.h, stb_image_write.h: public domain or MIT (see the end of each file)
-  - Bible texts (app/Bible/data): King James Version and World English Bible, both public domain
-    (the KJV is under Crown Letters Patent in the United Kingdom); text from eBible.org
+  - Bible texts (app/Bible/data/<translation>): from eBible.org, each under its own terms -
+    public domain or Creative Commons BY / BY-SA / BY-NC - stated in that folder's LICENSE.txt.
+    Footnotes and cross references were removed; the text is otherwise unchanged.
+    The King James Version is under Crown Letters Patent in the United Kingdom.
