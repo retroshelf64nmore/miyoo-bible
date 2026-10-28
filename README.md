@@ -57,7 +57,7 @@ The app ships with a white line icon. Matching icons for **Analogue**, **Hello M
 
 ## Compatibility
 
-- Tested on the **Miyoo Mini Plus** with Onion OS.
+- Tested on the **Miyoo Mini Plus** and **Miyoo Mini v3** with Onion OS.
 - The 752×560 screen (Mini v4) is supported in layout, but hasn't been tested on hardware yet.
 - Reports from other models are welcome.
 
